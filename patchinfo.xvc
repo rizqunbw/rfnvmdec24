@@ -19,8 +19,10 @@ Character\Monster\Ani\LUNKER_WARWALK_01_00.ANI e8725e17004d244cb9351f4bb027b2fd7
 Character\Player\Ani\BELMALE_COMBAT_STAND_NONE_NONE_01_00.ANI 88e8bbd1de3d050aab60b25611c802e6fc5d740c
 Character\Player\Ani\BELMALE_PEACE_STAND_NONE_NONE_01_00.ANI b87df4f687991824a0439b3357a02b2ef57e04d7
 DataTable\Character.edf 08aae021b6ad3b9bee3f782f3cd542f2c254d5f3
+DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\discord.ini 3078631d47fe30b9118ccf4987fd2dd7a26fbcd2
+DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\NDCharacter.edf 0235ea6c96d41e34cd1657ee06d6ee37b500765d
 DataTable\en-gb\NDEventShip.edf 059a4801c1656116f5e9b4fc12d01b4ac073ede6
 DataTable\en-gb\NDItem.edf 8b9e7d272ec2d694344b813023e859b8883ac212
@@ -31,7 +33,7 @@ DataTable\en-gb\NDMsgEvent.edf 3d7e1182bbab431afa0e6d24c0835db8af85f38c
 DataTable\en-gb\NDMsgMonster.edf 560d9dd1cf981e9ed265300ffc6574cc7dc9e456
 DataTable\en-gb\NDQuest.edf 938dc68b77ce9214812a32fdbfe451cb3438c505
 DataTable\en-gb\NDSkillForce.edf 5107fd44c329542594cfc0e39c52c87b6c9bdf7d
-DataTable\en-gb\NDStore.edf 8553d3787efd41b3a55385d518dc979ccf405051
+DataTable\en-gb\NDStore.edf 8b2e239eea5c2540463032888f3ac79092701a7f
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf ffcdbf38f1e947a089d22dc82369181277bb490b
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
@@ -47,7 +49,7 @@ DataTable\PlayerCharacter.edf 99dff1ef56660950745c557e15bc2043ddf17452
 DataTable\Quest.edf 1438a9c8ab47ab7fc99daece782901e231ad015e
 DataTable\Resource.edf 8b0a49ba7c4c08f0c25c51972dba6e2b8ed08826
 DataTable\SkillForce.edf 7ea9246aeeab4931ab2d2791b78efd4937434203
-DataTable\Store.edf e3c66c0bfd980165ad1519b867dfa7741becd730
+DataTable\Store.edf 9315a28ea5dbf057046afe9f02068bec0398c075
 Map\Exile_Land\Exile_land.ebp 58c3e4ba4f984bc6121bc5324078593fdfe64a8f
 Map\Mountain_Beast\Mountain_Beast.ebp 151705b0680c8a1ef3ac835387ad35bd8de305d8
 Map\Platform01\Platform01.ebp 4ba329af8bb29a59dbcc48a6259d42c795a60d9a
@@ -55,7 +57,7 @@ Map\Platform01\Sky\Platform01Sky.mtf b4f9d3404e66f05fb260ca73ff0a0b6f0c61fdc7
 Map\Platform01\Sky\Platform01Sky.r3t b611f495991684539c6a3bd83fc749116e4ef9ce
 Map\Platform01\Sky2\Platform01sky2.mtf d680b37e07098aa76590cc161da4b9594b73a26d
 Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
-RF_Online.bin bdd98e57d27fb1b49d9b975eb71edc5dfac18d15
+RF_Online.bin 93a2ee1aca3d37463ee354821291bf9767bbce58
 Snd\Bgm\ccrinc.AVI 0e356ba505631fbf715758bed27d503f8b260e3a
 Snd\Bgm\CCRINC.wmv 9b99593353a610c4bee0d6a94a01a3296080c0fb
 Snd\Bgm\Prologue.avi 688934845f22049cb14668832efa33d45013b6b9
