@@ -33,7 +33,7 @@ DataTable\en-gb\NDMsgEvent.edf 3d7e1182bbab431afa0e6d24c0835db8af85f38c
 DataTable\en-gb\NDMsgMonster.edf 560d9dd1cf981e9ed265300ffc6574cc7dc9e456
 DataTable\en-gb\NDQuest.edf 938dc68b77ce9214812a32fdbfe451cb3438c505
 DataTable\en-gb\NDSkillForce.edf 5107fd44c329542594cfc0e39c52c87b6c9bdf7d
-DataTable\en-gb\NDStore.edf 10e0aac7965922fb09f081f3fe59d76f079f8f90
+DataTable\en-gb\NDStore.edf 0cca9e97a2125e57a341d77e6c0fb301a4814f86
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf ffcdbf38f1e947a089d22dc82369181277bb490b
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
@@ -49,7 +49,7 @@ DataTable\PlayerCharacter.edf 99dff1ef56660950745c557e15bc2043ddf17452
 DataTable\Quest.edf cc4e4bd0c0b5fdc097b96132feacb7f4061473ef
 DataTable\Resource.edf 8b0a49ba7c4c08f0c25c51972dba6e2b8ed08826
 DataTable\SkillForce.edf 7ea9246aeeab4931ab2d2791b78efd4937434203
-DataTable\Store.edf 2ce236073466a2374d0fdcdc01872bbb709e83b7
+DataTable\Store.edf 1248ff91942449399917fe2821bd7593150de567
 Map\Exile_Land\Exile_land.ebp 58c3e4ba4f984bc6121bc5324078593fdfe64a8f
 Map\Mountain_Beast\Mountain_Beast.ebp 151705b0680c8a1ef3ac835387ad35bd8de305d8
 Map\Platform01\Platform01.ebp 4ba329af8bb29a59dbcc48a6259d42c795a60d9a
