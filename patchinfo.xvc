@@ -27,7 +27,7 @@ DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
 DataTable\en-gb\NDCharacter.edf 56429b9d02135bda490435b216480d20e1f7b7ab
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
-DataTable\en-gb\NDItem.edf 203394850083642427508f7a65c289323c76196e
+DataTable\en-gb\NDItem.edf 50bad47c4f29efcefdf4794347bdb7eeb2efa766
 DataTable\en-gb\NDItemCash.edf 572247ac9bdffa3450494832d707a7871260042a
 DataTable\en-gb\NDLanguage.edf 72c47188aaf86fea08a0867e999a56fe8c129001
 DataTable\en-gb\NDMap.edf 5be7e9b4338d7a669f17384562a6a444a0b85f06
@@ -35,11 +35,11 @@ DataTable\en-gb\NDMsgEvent.edf 81256bb91c89dc95a92beb5df2f33c6a3ab48c5b
 DataTable\en-gb\NDMsgMonster.edf c0b5de67414034b412c86966e5ba2f6e9af6ec7d
 DataTable\en-gb\NDQuest.edf ff4923b057ddcb0c297447371a2ffda7bf2917e5
 DataTable\en-gb\NDSkillForce.edf f938a01625781f745cfa9ca1c2218cb333e3b38c
-DataTable\en-gb\NDStore.edf 1eb6857d812c3915b84fa64014214a1b562cfe0f
+DataTable\en-gb\NDStore.edf 056d5d2336a9ec803cd1f1981ce33ce15f73ab36
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
-DataTable\Item.edf 3c0cb118916a82c5126d192e53a897a63bf3684f
+DataTable\Item.edf 1961a62d8a4a1341d0f390b4214d703726b53499
 DataTable\ItemCash.edf 99d32d568d7604f164950534f14f429453fe7d71
 DataTable\ItemCombine.edf 204d48be7314805c32579111e1492764e90e764e
 DataTable\ItemPremium.edf f3b964c48de7b8da9d2c371d3e9d78bf501de3fe
@@ -51,7 +51,7 @@ DataTable\PlayerCharacter.edf a55f15b81f5d6120963a2d6f98c99ee32acdf5c9
 DataTable\Quest.edf 53b678abd7e27f83cea2940e3903dfcdab7fa3a5
 DataTable\Resource.edf 3278a9612805bd794fd1f74f8510f6fe3801a549
 DataTable\SkillForce.edf 3f17cd82bf4959e96ef82c6feecc3b089c39d658
-DataTable\Store.edf 24423f5ff40d9ba652466b479bf235d0a61bd385
+DataTable\Store.edf 39f6f6a4acf5a692c036472bcafb7895d5af0e01
 Map\Exile_Land\Exile_land.ebp 58c3e4ba4f984bc6121bc5324078593fdfe64a8f
 Map\Mountain_Beast\Mountain_Beast.ebp 151705b0680c8a1ef3ac835387ad35bd8de305d8
 Map\Platform01\Platform01.ebp 4ba329af8bb29a59dbcc48a6259d42c795a60d9a
