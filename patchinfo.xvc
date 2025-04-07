@@ -20,6 +20,7 @@ Character\Player\Ani\BELMALE_COMBAT_STAND_NONE_NONE_01_00.ANI 88e8bbd1de3d050aab
 Character\Player\Ani\BELMALE_PEACE_STAND_NONE_NONE_01_00.ANI b87df4f687991824a0439b3357a02b2ef57e04d7
 DataTable\Character.edf cc27e585bfe2819325d243bd17127860a4bb1d84
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
+DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\discord.ini 3078631d47fe30b9118ccf4987fd2dd7a26fbcd2
 DataTable\en-gb\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
