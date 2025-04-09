@@ -18,7 +18,7 @@ Character\Monster\Ani\LUNKER_WARSTAND_01_00.ANI 9f845c8f444831958b096bea2ff7b006
 Character\Monster\Ani\LUNKER_WARWALK_01_00.ANI e8725e17004d244cb9351f4bb027b2fd70bd7142
 Character\Player\Ani\BELMALE_COMBAT_STAND_NONE_NONE_01_00.ANI 88e8bbd1de3d050aab60b25611c802e6fc5d740c
 Character\Player\Ani\BELMALE_PEACE_STAND_NONE_NONE_01_00.ANI b87df4f687991824a0439b3357a02b2ef57e04d7
-DataTable\Character.edf 3b12e50db120f18e212c6cef4270042702632e4a
+DataTable\Character.edf 451202f0698085b90d1246d75159a58000aaade2
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\discord.ini 3078631d47fe30b9118ccf4987fd2dd7a26fbcd2
@@ -26,7 +26,7 @@ DataTable\en-gb\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
-DataTable\en-gb\NDCharacter.edf c55a4e37868443aec4d02e4a4c05dddec327cff4
+DataTable\en-gb\NDCharacter.edf 7411fd64b51ed2c874330392a4d87a8acea4f79c
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
 DataTable\en-gb\NDItem.edf ffcaade9482ba4211d90292f265e978a5fe98546
 DataTable\en-gb\NDItemCash.edf fa93e33540a0074dcdd067cc7c511e3beee26b9b
