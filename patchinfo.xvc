@@ -440,9 +440,6 @@ Character\Player\Mesh\CORMALE_ARMOR_UPPER_158.msh c016fe92014c73f1d354f4a4c8df1d
 Character\Player\Mesh\CORMALE_ARMOR_UPPER_159.msh 8664585fda879415248a6ed05fe43d1de43dbd39
 Character\Player\Mesh\CORMALE_ARMOR_UPPER_161.msh abd2276c9d4d4a9eca7cd24de13b71d8a4a4f295
 Character\Player\Mesh\CORMALE_ARMOR_UPPER_193.msh 9080ff8ab1451af99d546313fd675aba5689400d
-Character\Player\Mesh\ori6770.RFS b1c6f02205b5de50c3873da161e5addcb9f3933a
-Character\Player\Mesh\ORI70.RFS 8217ba2b9b7bac6bda162f176f0b9f574f76db44
-Character\Player\Mesh\RFMASTER.RFS 71888cc90c89b186075fc2bc81ff6f05a601d2af
 Character\Player\Mesh\RFSInfo.dat d212d3cde6655c82908dffd96b7f4dbee079b1ce
 Character\Player\Mesh\XMASM.RFS e4076148d6ae377ba46515aa45d929ea5df14d4f
 Character\Player\Tex\AC_75D_G_057.dds f5895c5d55df9319371f07cbb1f0b746a3a312d1
@@ -595,9 +592,6 @@ Character\Player\Tex\CM_75_S_067.dds cdd196809b235a92799f9e3e5d7c021112e6d974
 Character\Player\Tex\CM_75_U_065.dds ea0c3c0641d2c112de7795821647b55bdaa609e2
 Character\Player\Tex\CM_75_U_066.dds 07c51ec4c4ca1803349641a544e043738278e7ae
 Character\Player\Tex\CM_75_U_067.dds cf8321b165ed63c346e027c8aa418a6a68eff510
-Character\Player\Tex\DARKT60.RFS edad9da6c29e6dcd07a9428abce935ec419578a0
-Character\Player\Tex\ori6770.RFS bf8eafd9dfda50df344507d315e86b1df6695baf
-Character\Player\Tex\RFMASTER.RFS cb5c51e1f64e92a3fb78148af145a8147c29cce4
 Character\Player\Tex\RFSInfo.dat 0d43a7d65a67a6cfc5267943f05a2261049520c7
 Character\Player\Tex\XMAST.RFS f5550c32fb7371d6bc09fbeca5adc91505d75524
 Character\Unit\Ani\CAUNA.RFS 23670c43a5f26bda3ed07bf34e6cc6533acc36c4
@@ -618,11 +612,6 @@ Character\Unit\Mesh\GOUNM.RFS 86ebce5ad7ebdf8bc1a15d167ea769e2012ef015
 Character\Unit\Mesh\GOUNM60.RFS dede8154772e978f173100ad59bfe04a47cbd204
 Character\Unit\Mesh\ORI70GOL.RFS 3fcb07cef53d689e021db6e497025d71fe24ed5e
 Character\Unit\Mesh\RFSInfo.dat 7b6590104a9ee264879da23c6d999aed038d0030
-Character\Unit\Tex\60UNT1.RFS 99de27c2a72abf2470cc9f789337f6b46d22f2ea
-Character\Unit\Tex\60UNT2.RFS 34efca382796a4e761b3e3ed5e0a46662c0a01d8
-Character\Unit\Tex\CAUNT.RFS 5682d55f5da32942e127ef3858ea09cbcc36fb8a
-Character\Unit\Tex\GOUNT.RFS 5dddc8e5302f6cbe23fbcadb33284db6fb1ed54a
-Character\Unit\Tex\ORI70GOL.RFS edfdc4db698fb387f62da112af64dd1aa016cb78
 Character\Unit\Tex\RFSInfo.dat 5070f71f1e6566660dc7907e6b2b612984689bbe
 Chef\Entity.ini 13a32dd4910555d9e99a1aa9be8493204902b6ea
 Chef\Monster.ini 5f0fa7d8bcd6d894a208c5cc40e22d92af793696
@@ -669,7 +658,7 @@ Map\Platform01\Sky\Platform01Sky.mtf b4f9d3404e66f05fb260ca73ff0a0b6f0c61fdc7
 Map\Platform01\Sky\Platform01Sky.r3t b611f495991684539c6a3bd83fc749116e4ef9ce
 Map\Platform01\Sky2\Platform01sky2.mtf d680b37e07098aa76590cc161da4b9594b73a26d
 Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
-RF_Online.bin 8dea9055810351558c1e5581ec6671e56b229895
+RF_Online.bin 95cfeba8d5dd69121a436fd37f00057a0d18bd42
 Snd\Bgm\ccrinc.AVI 0e356ba505631fbf715758bed27d503f8b260e3a
 Snd\Bgm\CCRINC.wmv 9b99593353a610c4bee0d6a94a01a3296080c0fb
 Snd\Bgm\Prologue.avi 688934845f22049cb14668832efa33d45013b6b9
