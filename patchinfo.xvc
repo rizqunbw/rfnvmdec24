@@ -615,7 +615,7 @@ Character\Unit\Mesh\RFSInfo.dat 7b6590104a9ee264879da23c6d999aed038d0030
 Character\Unit\Tex\RFSInfo.dat 5070f71f1e6566660dc7907e6b2b612984689bbe
 Chef\Entity.ini 13a32dd4910555d9e99a1aa9be8493204902b6ea
 Chef\Monster.ini 5f0fa7d8bcd6d894a208c5cc40e22d92af793696
-DataTable\Character.edf 9643338c3b1cdda6dd2f167423d637e66060f6b0
+DataTable\Character.edf 3ae01b9fe1991bcb2906e26dbabe41bdccd6e523
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\Csua.txt 4da19826da09b2c9fc7ac4c8311b26faf2fd5fe8
@@ -624,7 +624,7 @@ DataTable\en-gb\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 781b44b3243247755a8880bf6a98bf49da221122
-DataTable\en-gb\NDCharacter.edf ad2c3b05f256073f7229e6a179547b058b141179
+DataTable\en-gb\NDCharacter.edf 2ca14d177df630d3568fa81afe0b3c077382334b
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
 DataTable\en-gb\NDItem.edf 5c60a03eecbfdf54aa3c920974d61a40de4e936f
 DataTable\en-gb\NDItemCash.edf 56edb1d9e5596b2c4a0bb2405c04785c6861dfde
