@@ -690,7 +690,7 @@ DataTable\en-gb\NDMsgEvent.edf 81256bb91c89dc95a92beb5df2f33c6a3ab48c5b
 DataTable\en-gb\NDMsgMonster.edf c0b5de67414034b412c86966e5ba2f6e9af6ec7d
 DataTable\en-gb\NDQuest.edf 965528c685fa4f32acf1402dd54ec81bd1f5d861
 DataTable\en-gb\NDSkillForce.edf f3131fcbf692b15d88a48fe2d4101785013e0c86
-DataTable\en-gb\NDStore.edf 4f4ea62f361b73f0711f19edea03ad19ac6c9ca8
+DataTable\en-gb\NDStore.edf 6107407dcdb8190786cf6e47907e1e39e91964e2
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
@@ -706,7 +706,7 @@ DataTable\PlayerCharacter.edf a55f15b81f5d6120963a2d6f98c99ee32acdf5c9
 DataTable\Quest.edf 36232878223eca2522b0740fa8e515ac4e0da168
 DataTable\Resource.edf f340e7d4a9630b52369ffb972a0f0ef33544e0d5
 DataTable\SkillForce.edf 241a380ae9c3b6bd4d497ae63c513ca13479ec89
-DataTable\Store.edf e139796e14939551cf3e46695e95bede630c76f0
+DataTable\Store.edf 14df7b524f7b704dd3ad5bf6eb1ba3915bce20d2
 Item\Armor\Mesh\ACCRETIA_SWD.MSH 390b36bad70e56d6460931670eef00121bc4f8e8
 Item\Armor\Mesh\BELFEMALE_SWD.MSH bf54b8c93db7d8b92e6b728f14d0fc90bfddc304
 Item\Armor\Mesh\BELMALE_SWD.MSH 4f543c03a4df24f0fb317df65529c574b46425cb
