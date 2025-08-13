@@ -671,7 +671,7 @@ Chef\Tex\shadowfiend.dds 061c47f14c973dc3525a714493261819a2324a3e
 Chef\Tex\silver.dds 0062bd1783cfa4677edeb1b202c57c11212339af
 Chef\Tex\sphrotated_04.dds eb35707c1063a1c943cfd91f663261247fa4da20
 Chef\Tex\STAFF_BB_06.dds 065d1b712515312795b035dda84e9dfc0da419dc
-DataTable\Character.edf ded0c0cba6192569c816f78378c991e3a3247b5c
+DataTable\Character.edf 551f154091957f6027abf0999547c7b419ef94f0
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\Csua.txt 4da19826da09b2c9fc7ac4c8311b26faf2fd5fe8
@@ -680,9 +680,9 @@ DataTable\en-gb\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
-DataTable\en-gb\NDCharacter.edf 5d2e446f7ed77f40180cef5ea05b309199328a3f
+DataTable\en-gb\NDCharacter.edf 6f2b39e0d562d904eeb54ee72a57b64587c7e588
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
-DataTable\en-gb\NDItem.edf da305e66a222a336b2b599fcf90ff90cfd6bf924
+DataTable\en-gb\NDItem.edf f797f9d5db07c6ae729504ee86bdd2416b839c27
 DataTable\en-gb\NDItemCash.edf 117ac15af280e0cf329347f1012e432ce0510250
 DataTable\en-gb\NDLanguage.edf fd0f2d2aaf842994b49b10ba74f3e590ef3d8f63
 DataTable\en-gb\NDMap.edf 50c0bd5f2de26275bb8bad990f9064adc5860e1c
@@ -690,13 +690,13 @@ DataTable\en-gb\NDMsgEvent.edf 81256bb91c89dc95a92beb5df2f33c6a3ab48c5b
 DataTable\en-gb\NDMsgMonster.edf c0b5de67414034b412c86966e5ba2f6e9af6ec7d
 DataTable\en-gb\NDQuest.edf 965528c685fa4f32acf1402dd54ec81bd1f5d861
 DataTable\en-gb\NDSkillForce.edf f3131fcbf692b15d88a48fe2d4101785013e0c86
-DataTable\en-gb\NDStore.edf 6107407dcdb8190786cf6e47907e1e39e91964e2
+DataTable\en-gb\NDStore.edf 6f4d8c34aa2b55a93638d766c14fe999d338fc34
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
-DataTable\Item.edf 6d0f361c6783933c6f751073930f727dfcba9297
+DataTable\Item.edf 9083572f3d6ee7b9898cf49f31a20ff3a3b3211a
 DataTable\ItemCash.edf 91a9eb33147865cd14372173c9b313aa9e905d86
-DataTable\ItemCombine.edf 30d6c58c897e48f8cfa7c11c09113ee56dbf539b
+DataTable\ItemCombine.edf bde182d3cc801c441edf013cb8960cd7e6e787ce
 DataTable\ItemPremium.edf cf52559096d7d8dcc3a24fe9c6dd861c54b6d234
 DataTable\ItemSetEffect.edf 0cb1d2e2ff2d6b12268f1c5d8377817a57c3db95
 DataTable\ItemTimer.edf 2a93e99ca2ec76f0796ca1568335c8c06dee3f9c
@@ -706,7 +706,7 @@ DataTable\PlayerCharacter.edf a55f15b81f5d6120963a2d6f98c99ee32acdf5c9
 DataTable\Quest.edf 36232878223eca2522b0740fa8e515ac4e0da168
 DataTable\Resource.edf f340e7d4a9630b52369ffb972a0f0ef33544e0d5
 DataTable\SkillForce.edf 241a380ae9c3b6bd4d497ae63c513ca13479ec89
-DataTable\Store.edf 14df7b524f7b704dd3ad5bf6eb1ba3915bce20d2
+DataTable\Store.edf 41c2153fd333f13aa0cd4e460ed0a41c0d885619
 Item\Armor\Mesh\ACCRETIA_SWD.MSH 390b36bad70e56d6460931670eef00121bc4f8e8
 Item\Armor\Mesh\BELFEMALE_SWD.MSH bf54b8c93db7d8b92e6b728f14d0fc90bfddc304
 Item\Armor\Mesh\BELMALE_SWD.MSH 4f543c03a4df24f0fb317df65529c574b46425cb
