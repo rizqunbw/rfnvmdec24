@@ -671,7 +671,7 @@ Chef\Tex\shadowfiend.dds 061c47f14c973dc3525a714493261819a2324a3e
 Chef\Tex\silver.dds 0062bd1783cfa4677edeb1b202c57c11212339af
 Chef\Tex\sphrotated_04.dds eb35707c1063a1c943cfd91f663261247fa4da20
 Chef\Tex\STAFF_BB_06.dds 065d1b712515312795b035dda84e9dfc0da419dc
-DataTable\Character.edf 8e63a35f0f71f3c55286b4a23c8e5db0b26b66a6
+DataTable\Character.edf 4cc345b302448a1469035fd0e3f32b051325dee9
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\Csua.txt 4da19826da09b2c9fc7ac4c8311b26faf2fd5fe8
@@ -680,7 +680,7 @@ DataTable\en-gb\FG_CB.ini 6d42473d17bc5737d514c95345684b3c934e842f
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
-DataTable\en-gb\NDCharacter.edf 38c554b2491b2fb666e4ecae43e34fb8a29c1dfa
+DataTable\en-gb\NDCharacter.edf f2be181be198f7e7bc172b8eb710ef4e258cf763
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
 DataTable\en-gb\NDItem.edf 09c76f8d279ed4a5b5ca1d1389dfbc4d2f9199b0
 DataTable\en-gb\NDItemCash.edf 117ac15af280e0cf329347f1012e432ce0510250
@@ -696,7 +696,7 @@ DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
 DataTable\Item.edf 9e0c316806ba228fbcdc89e59b8690a42b76cd35
 DataTable\ItemCash.edf 91a9eb33147865cd14372173c9b313aa9e905d86
-DataTable\ItemCombine.edf 14406ecc583f36732f9886bd3b4241dc75a4b51d
+DataTable\ItemCombine.edf 5ef76d5332551958c34e09bb789c5be742189f4b
 DataTable\ItemPremium.edf cf52559096d7d8dcc3a24fe9c6dd861c54b6d234
 DataTable\ItemSetEffect.edf 0cb1d2e2ff2d6b12268f1c5d8377817a57c3db95
 DataTable\ItemTimer.edf 2a93e99ca2ec76f0796ca1568335c8c06dee3f9c
