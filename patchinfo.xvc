@@ -685,7 +685,7 @@ DataTable\en-gb\NDEventShip.edf 4ebb4a2f9af863578cff802a1c31e843c63e00e4
 DataTable\en-gb\NDItem.edf 89ad71ee0ff7355546af366296a88366fafd1ace
 DataTable\en-gb\NDItemCash.edf 3132254cd0064f9787e98eba03b51fed0d962d60
 DataTable\en-gb\NDLanguage.edf c9dee1590d5d9b7b99eee7a4e0d958cb1578e102
-DataTable\en-gb\NDMap.edf 2b57d7140658ba03d24b8d02b41e88fe04969e2b
+DataTable\en-gb\NDMap.edf 50c0bd5f2de26275bb8bad990f9064adc5860e1c
 DataTable\en-gb\NDMsgEvent.edf 88d0690dad2b49f27b9ff83f6895ea8171b00bf4
 DataTable\en-gb\NDMsgMonster.edf 4a30213851dc270a78bc9e100a76c7ebbdef432d
 DataTable\en-gb\NDQuest.edf 5bdf50d045e535e152857639a26ba97d47e697aa
@@ -700,7 +700,7 @@ DataTable\ItemCombine.edf 20a7aa7a16e0cf2b85bb5eb7bd23c389193417fe
 DataTable\ItemPremium.edf 69a630dcde87940cbfbb09d00b96ffb396011576
 DataTable\ItemSetEffect.edf c7567c8b9429702a08a1070b97d7789e1b838188
 DataTable\ItemTimer.edf f7a7500fd1742c72f81fbf8ddd7607d294e151f2
-DataTable\Map.edf 6d26964e8d3f93ad47bfba309a8fc790c5f3cc2a
+DataTable\Map.edf 0accd3c314c417d0eff098d50b7f712e8870a4ba
 DataTable\MsgEvent.edf 9ae19bde8840339d23d98eb30c50096fd8148838
 DataTable\PlayerCharacter.edf 5d7ec08f0ff71713e48b306bf0a136b98abb7117
 DataTable\Quest.edf cd907232898a3bf5271995388fdb40cba6393cbd
