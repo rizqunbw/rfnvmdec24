@@ -731,7 +731,7 @@ Snd\Bgm\RF_EP1_New.wmv 4e22436534f7ddda6023610945ad3fb84b08d5f2
 Snd\Bgm\RF_EP2_New.wmv 688934845f22049cb14668832efa33d45013b6b9
 Snd\BGMList.spt 34312839ef73609599658dea88b18072d5b248c6
 Snd\waveList.spt a1e373dd4c3e8034a2cf84bf617e6f281f86a67d
-SpriteImage\ads\1.png 1ce8ab5d2c5abac12798aa436263dd1938cde7fb
+SpriteImage\ads\1.png 3d88c896cdf9feebcb33b9811ddc3e8551249cb4
 SpriteImage\ads\init.ini 9ed5d4d994ab00728b78ccba62b50f4146262bce
 SpriteImage\common\battlepass.spr 5ef979b4596ff2eb577da690ce33e37c30265f74
 SpriteImage\common\class.spr 365e9ddf16c0f87605964909aacf423479bcfba7
@@ -767,5 +767,5 @@ SpriteImage\en-gb\common.spr 7954a3036303f2304655566e0771fe22560e5cd6
 SpriteImage\en-gb\item.spr 39bed9d72dfff8dc8eac1b34b1a8568788ba04dc
 SpriteImage\en-gb\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
 SpriteImage\en-gb\login.spr ea45e5084f606f7758c6c82ac110fbf01a1c9b73
-SpriteImage\launcher.png 1041ce062a9940c828050906a189591c724314f9
+SpriteImage\launcher.png d2ab2d6fde8f88ad8493ddcda4f25b87ea411823
 System\lucon.ttf 3a21f868544500c690f8ac04dc6b05a7dfe94637
