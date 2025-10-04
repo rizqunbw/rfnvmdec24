@@ -801,7 +801,7 @@ SpriteImage\common\guild.spr 6e6b55194d6ff6ef8d656b3683cbb522f790b449
 SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr ee880b6673d3a31d3ee74d76c06c4c60e551d084
 SpriteImage\common\inventory.spr b96b8be550a0bc1266132d19039973fa637b9e40
-SpriteImage\common\item.spr 39bed9d72dfff8dc8eac1b34b1a8568788ba04dc
+SpriteImage\common\item.spr d22577987d9e7ca9feb3c52edbb2d59bb617eb1f
 SpriteImage\common\itemcombine.spr c62a8c728d23e3c5ecabf1eb12fda4f516115d83
 SpriteImage\common\itemmake.spr bb6e6ae641da18f7e0d4248901b6eb946f221258
 SpriteImage\common\main.spr 65b89a6a776b3a1bd5197f30256aa53ccfe7a2d5
@@ -822,7 +822,7 @@ SpriteImage\common\unitparts.spr 017db42a7fb2dcc3b737412294e66fd2c70134d3
 SpriteImage\common\unmannedminer.spr 69a25fd2d8e6cf552951d887f8b76a712df6c8db
 SpriteImage\en-gb\CashShop.spr b6858e1315bc03949432809a0f13c0c6cff2304b
 SpriteImage\en-gb\common.spr 7954a3036303f2304655566e0771fe22560e5cd6
-SpriteImage\en-gb\item.spr 39bed9d72dfff8dc8eac1b34b1a8568788ba04dc
+SpriteImage\en-gb\item.spr d22577987d9e7ca9feb3c52edbb2d59bb617eb1f
 SpriteImage\en-gb\itemupgrade.spr 86f3ca26690c731040aa70eace579a1a34615434
 SpriteImage\en-gb\login.spr ea45e5084f606f7758c6c82ac110fbf01a1c9b73
 SpriteImage\launcher.png d2ab2d6fde8f88ad8493ddcda4f25b87ea411823
