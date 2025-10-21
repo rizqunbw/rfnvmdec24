@@ -729,7 +729,7 @@ DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
 DataTable\en-gb\NDCharacter.edf 50c842a43babd756b5c2a2d3af95f41c5d3d95d0
 DataTable\en-gb\NDEventShip.edf 4ebb4a2f9af863578cff802a1c31e843c63e00e4
-DataTable\en-gb\NDItem.edf 978fbc6e3737b8e5db65240f3e227152e158b82e
+DataTable\en-gb\NDItem.edf ef7c8da544f42e5dcc47fd0941a2dbf14e7e93a9
 DataTable\en-gb\NDItemCash.edf 3132254cd0064f9787e98eba03b51fed0d962d60
 DataTable\en-gb\NDLanguage.edf c9dee1590d5d9b7b99eee7a4e0d958cb1578e102
 DataTable\en-gb\NDMap.edf 50c0bd5f2de26275bb8bad990f9064adc5860e1c
@@ -741,7 +741,7 @@ DataTable\en-gb\NDStore.edf 59e3866685b54b49377c0f2d24d75bac7da1d8d4
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf 25f058584309772716d73e5288ff926f2de0f50e
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
-DataTable\Item.edf 4829a2dbaf3bc875fa186efd319bc4e7716c6f34
+DataTable\Item.edf 85f4de02e71d3f421d151ba1e0f92a57ce0e1db8
 DataTable\ItemCash.edf 021cb39d8d941f9c4b7d0f41a6ddf8e1a3924e9c
 DataTable\ItemCombine.edf cb108be514a83f7ec3269ea10a4ce737453d8162
 DataTable\ItemPremium.edf 69a630dcde87940cbfbb09d00b96ffb396011576
@@ -789,7 +789,7 @@ Snd\Bgm\RF_EP1_New.wmv 4e22436534f7ddda6023610945ad3fb84b08d5f2
 Snd\Bgm\RF_EP2_New.wmv 688934845f22049cb14668832efa33d45013b6b9
 Snd\BGMList.spt 34312839ef73609599658dea88b18072d5b248c6
 Snd\waveList.spt a1e373dd4c3e8034a2cf84bf617e6f281f86a67d
-SpriteImage\ads\1.png 53436283b75b2ce69d77d103b55af8f59e67ff4c
+SpriteImage\ads\1.png 8da4c81d9a64af35d29394460cb957d9c2bc8536
 SpriteImage\ads\init.ini 9ed5d4d994ab00728b78ccba62b50f4146262bce
 SpriteImage\common\battlepass.spr 5ef979b4596ff2eb577da690ce33e37c30265f74
 SpriteImage\common\class.spr 365e9ddf16c0f87605964909aacf423479bcfba7
